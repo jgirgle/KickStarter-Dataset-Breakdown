@@ -1,0 +1,2 @@
+# KickStarter-Dataset-Breakdown
+This is a breakdown of 4,000 kickstarter funding accounts and given rating on success level. Included in the breakdown of data is several pivot tables and charts specifying the success or failure for each category, and then broken down one step further into each subcategory.  This dataset was used to help companies determine what might be the key to success when it comes to fundraising.
